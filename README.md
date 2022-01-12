@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/MishraLokesh/Health_Hub/blob/main/Frontend/images/HHL.png" alt="HealthHubLogo" height=250px width=250px/>
+<!-- <img src="https://github.com/MishraLokesh/Health_Hub/blob/main/Frontend/images/HHL.png" alt="HealthHubLogo" height=250px width=250px/> -->
 </p>
 
 # HealthHub
@@ -71,7 +71,7 @@ To contribute to this project:
 Note: Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
 ## Connect with the Collaborators
-1. Lokesh Mishra - [LinkedIN](https://www.linkedin.com/in/lokesh-mishra-0807/) || [GitHub](https://github.com/MishraLokesh) || [Instagram](https://www.instagram.com/lokesh.mishra__/)
+1. Lokesh Mishra - [LinkedIn](https://www.linkedin.com/in/lokesh-mishra-0807/) || [GitHub](https://github.com/MishraLokesh) || [Instagram](https://www.instagram.com/lokesh.mishra__/)
 
 
 ## License
