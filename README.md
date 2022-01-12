@@ -10,10 +10,6 @@
 
   Our team's final vision for this project is that we provide a framework for all parties of the healthcare ecosystem (e.g. Insurance Agencies, Doctors, Patients, Pharmaceuticals, Diagnostic Centers, etc.) to leverage. By leveraging the underlying transparent, scalable and secure blockchain platform we are enabling the ease of communication between all the mentioned agencies and enhancing the efficiency of the medical sector.
 
-## Live Demonstartion of the Project
-
-  LIVE Demonstration: https://youtu.be/fShgkQZcTa0
-
 ## Installation
 
 1. Clone repo on your local system
@@ -77,7 +73,6 @@ Note: Pull requests are welcome. For major changes, please open an issue first t
 ## Connect with the Collaborators
 1. Lokesh Mishra - [LinkedIN](https://www.linkedin.com/in/lokesh-mishra-0807/) || [GitHub](https://github.com/MishraLokesh) || [Instagram](https://www.instagram.com/lokesh.mishra__/)
 
-2. Aman Anand - [LinkedIN](https://www.linkedin.com/in/amanxanand/) || [GitHub](https://github.com/aman-anand1906) || [Instagram](https://www.instagram.com/aman_anand_619/")
 
 ## License
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) license.
