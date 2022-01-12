@@ -11,7 +11,7 @@ const source = fs.readFileSync(Contractpath, 'UTF-8');
 var input = {
   language: 'Solidity',
   sources: {
-      'NFToken.sol' : {
+      'HealthHub.sol' : {
           content: source
       }
   },
@@ -31,7 +31,7 @@ console.log(output);
 
 fs.ensureDirSync(buildPath);
 
-output = output.contracts['NFToken.sol'];
+output = output.contracts['HealthHub.sol'];
 
 for (let contract in output) {
   fs.outputJsonSync(

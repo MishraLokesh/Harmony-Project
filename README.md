@@ -1,5 +1,5 @@
 <p align="center">
-<!-- <img src="https://github.com/MishraLokesh/Health_Hub/blob/main/Frontend/images/HHL.png" alt="HealthHubLogo" height=250px width=250px/> -->
+<img src="https://github.com/MishraLokesh/Health_Hub/blob/main/Frontend/images/HHL.png" alt="HealthHubLogo" height=250px width=250px/>
 </p>
 
 # HealthHub
@@ -9,6 +9,10 @@
   HealthHub is a project that aims to revolutionize patient healthcare by bringing all the key stakeholders of the medical sector under one umbrella. This makes the medicare process very convenient not only for the patient but also for the whole environment as a whole. It is designed to be a one-stop solution for all the integral components of the medical sector.
 
   Our team's final vision for this project is that we provide a framework for all parties of the healthcare ecosystem (e.g. Insurance Agencies, Doctors, Patients, Pharmaceuticals, Diagnostic Centers, etc.) to leverage. By leveraging the underlying transparent, scalable and secure blockchain platform we are enabling the ease of communication between all the mentioned agencies and enhancing the efficiency of the medical sector.
+
+## Live Demonstartion of the Project
+
+  LIVE Demonstration: https://youtu.be/fShgkQZcTa0
 
 ## Installation
 
@@ -71,8 +75,9 @@ To contribute to this project:
 Note: Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
 ## Connect with the Collaborators
-1. Lokesh Mishra - [LinkedIn](https://www.linkedin.com/in/lokesh-mishra-0807/) || [GitHub](https://github.com/MishraLokesh) || [Instagram](https://www.instagram.com/lokesh.mishra__/)
+1. Lokesh Mishra - [LinkedIN](https://www.linkedin.com/in/lokesh-mishra-0807/) || [GitHub](https://github.com/MishraLokesh) || [Instagram](https://www.instagram.com/lokesh.mishra__/)
 
+2. Aman Anand - [LinkedIN](https://www.linkedin.com/in/amanxanand/) || [GitHub](https://github.com/aman-anand1906) || [Instagram](https://www.instagram.com/aman_anand_619/")
 
 ## License
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) license.

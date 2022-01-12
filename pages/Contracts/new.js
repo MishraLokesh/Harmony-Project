@@ -3,8 +3,9 @@ import { Form,Button,Input,Message } from 'semantic-ui-react';
 import Layout from '../../components/Layout'
 import 'semantic-ui-css/semantic.min.css'
 import factory from '../../ethereum/factory'
-import web3 from '../../ethereum/web3'
+// import web3 from '../../ethereum/web3'
 import { Router } from '../../routes'
+const Web3 = require('web3')
 
 class ContractNew extends Component { 
   state = {
@@ -18,7 +19,12 @@ class ContractNew extends Component {
     this.setState({loading: true, errorMsg: ''});
 
     try{
-      const accounts = await web3.eth.getAccounts()
+      await window.ethereum.enable();
+      await window.ethereum.send('eth_requestAccounts');
+      window.web3 = new Web3(window.ethereum);
+		
+      var accounts = await web3.eth.getAccounts();
+
       await factory.methods.createContract(this.state.desc)
       .send({
         from: accounts[0]
