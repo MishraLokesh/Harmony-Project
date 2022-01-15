@@ -10,6 +10,10 @@
 
   Our team's final vision for this project is that we provide a framework for all parties of the healthcare ecosystem (e.g. Insurance Agencies, Doctors, Patients, Pharmaceuticals, Diagnostic Centers, etc.) to leverage. By leveraging the underlying transparent, scalable and secure blockchain platform we are enabling the ease of communication between all the mentioned agencies and enhancing the efficiency of the medical sector.
 
+## Demo video link
+
+https://www.youtube.com/watch?v=oAWSL-8OvVQ&t=2s
+
 ## Installation
 
 1. Clone repo on your local system
